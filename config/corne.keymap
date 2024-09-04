@@ -58,10 +58,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&trans  &kp SQT    &kp LESS_THAN  &kp GREATER_THAN  &kp DOUBLE_QUOTES  &kp PERIOD    &kp AMPERSAND  &trans      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PERCENT   &kp BSPC
-&trans  &kp EXCL   &kp MINUS      &kp PLUS          &kp EQUAL          &kp HASH      &kp PIPE       &kp COLON   &kp LBKT              &kp RBKT               &kp QUESTION  &kp GRAVE
-&trans  &kp CARET  &kp SLASH      &kp STAR          &kp BACKSLASH      &trans        &kp TILDE      &kp DOLLAR  &kp LBRC              &kp RBRC               &kp AT        &kp TILDE
-                                  &trans            &trans             &trans        &trans         &trans      &trans
+&trans  &kp SQT    &kp LESS_THAN   &kp GREATER_THAN  &kp DOUBLE_QUOTES  &kp PERIOD       &kp AMPERSAND  &trans      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PERCENT   &kp BSPC
+&trans  &kp EXCL   &kp MINUS       &kp PLUS          &kp EQUAL          &kp HASH         &kp PIPE       &kp COLON   &kp LBKT              &kp RBKT               &kp QUESTION  &kp GRAVE
+&trans  &kp CARET  &kp UNDERSCORE  &kp STAR          &kp SLASH          &kp BACKSLASH    &kp TILDE      &kp DOLLAR  &kp LBRC              &kp RBRC               &kp AT        &kp TILDE
+                                   &trans            &trans             &trans           &trans         &trans      &trans
             >;
         };
 
